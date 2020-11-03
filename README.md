@@ -23,4 +23,4 @@ In this assignment, the goal is to learn about basic git commands with some exam
 
 9. How do I authenticate against the git server?
 
-In this case, as an example, a file was uploaded to the repository. 
+In this case, as an example, a file was uploaded to the repository: https://github.com/MichelleVic/RepoTarea/blob/master/Copyleft.docx
